@@ -45,7 +45,7 @@
   show heading: it => it.body
   heading({
     set block(spacing: 0pt)
-    // to offset
+    // to offset existing par inset
     show par: it => block(inset: (y: -0.125em), it)
     block(
       inset: (

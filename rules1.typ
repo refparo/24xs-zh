@@ -2,8 +2,6 @@
 
 #show: typ-24xs
 
-//#show: debug-grid
-
 #show: rules-page
 
 #logo
